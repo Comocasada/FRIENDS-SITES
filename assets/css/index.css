@@ -72,3 +72,9 @@ main article a {
   height: 50px;
   width: 320px;
 }
+
+footer {
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+}
